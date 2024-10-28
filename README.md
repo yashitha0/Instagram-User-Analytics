@@ -2,9 +2,11 @@
 
 In this project, you are a data analyst working with the product team at Instagram. Your primary responsibility is to analyze user interactions and engagement within the Instagram app, providing insights that drive business growth.
 
-Using SQL and MySQL Workbench, you will analyze Instagram user data to address specific questions posed by the management team. 
-
 **Objective**: The goal is to apply SQL to extract actionable insights from user data. Your insights will enable the product manager and the team to make data-driven decisions that shape the app's future direction.
+
+# Database Schema 
+
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/85f80c5a-d9e4-4872-8938-bd2fc8857517">
 
 # SQL Tasks
 
