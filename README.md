@@ -6,7 +6,7 @@ In this project, you are a data analyst working with the product team at Instagr
 
 # Database Schema 
 
-<img width="382" alt="image" src="https://github.com/user-attachments/assets/85f80c5a-d9e4-4872-8938-bd2fc8857517">
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/85f80c5a-d9e4-4872-8938-bd2fc8857517">
 
 # SQL Tasks
 
